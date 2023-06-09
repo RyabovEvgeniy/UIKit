@@ -1,0 +1,5 @@
+Вопрос: На проекте, в котором используется UIkit, контейнер для контента должен иметь ширину 1366px
+
+Ответ: <div class="uk-container uk-container-large">
+		<div class="uk-padding-small">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quia asperiores quidem odio rerum soluta earum perspiciatis distinctio enim eius praesentium modi voluptatum magnam, ullam fugit culpa! Voluptas, similique natus.</div>		
+	</div>
